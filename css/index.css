@@ -1,0 +1,281 @@
+html , body {
+    background-color: black;
+    width: 100%;
+    height: 120%;
+    
+}
+
+
+.container {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   letter-spacing: 4px;
+  width: 400px;
+  margin-left: 350px;
+}
+
+.konten {
+    color: rgb(255, 255, 255);
+    opacity: 0.8;
+    display: flex;
+    list-style: none;
+    padding-top: 15px;
+    justify-content: space-evenly;
+    justify-items: center;
+    cursor: pointer;
+    
+}
+
+.konten :hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+
+
+
+button.uk-button.uk-button-default {
+    background-color: rgba(253, 189, 11, 0.76);
+    display: flex;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -63px;
+    color: black;
+    font-family: poppins;
+}
+
+button.uk-button.uk-button-default:hover{
+    color:cadetblue;
+}
+
+.teks {
+    font-size: 17px;
+    font-family: fangsong;
+    position: absolute;
+    font-weight: 900;
+    color: white;
+    margin-top: -64px;
+    opacity: 0.4;
+    margin-left: 16px;
+}
+
+h1.judul {
+    display: flex;
+    width: 539px;
+    padding-top: 82px;
+    margin-left: 143px;
+    font-family: ui-monospace;
+    font-size: 53px;
+    color: white;
+    font-style: italic;
+    font-weight: 500;
+}
+
+p.isi {
+    position: absolute;
+    margin-top: 207px;
+    width: 536px;
+    margin-left: 144px;
+}
+
+ul.box {
+    display: flex;
+    padding-top: 131px;
+
+}
+
+ul.kotak{
+    padding-top: 30px;
+}
+
+li.isian {
+    list-style: none;
+    letter-spacing: 108px;
+    margin-left: 17px;
+}
+
+li.gambar {
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img.gambar1 {
+    padding-left: 80px;
+    margin-left: 99px;
+}
+
+.judul {
+    margin-left: 88px;
+    margin-top: -12px;
+    font-size: 38px;
+    font-family: cursive;
+    color: white;
+}
+.judul1{
+    font-size: 38px;
+    font-family: cursive;
+    color: white;
+    margin-left: 659px;
+    position: absolute;
+    margin-top: -159px;
+
+
+}
+svg {
+    margin-left: 313px;
+    margin-top: -80px;
+    color: white;
+}
+
+.ini-teks {
+    margin-left: 118px;
+}
+
+p.isini {
+    width: 502px;
+    margin-top: -23px;
+    margin-left: 43px;
+    
+}
+
+
+p.teks-konten {
+    width: 513px;
+    margin-left: 615px;
+    margin-top: -95px;
+}
+
+
+div.konten2 {
+    background-color:rgb(51, 51, 58);
+    width: auto;
+    height: 418px;
+    margin-top: 94px;
+    display: flex;
+    ;
+}
+
+h2.koten3 {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: -123px;
+    width: 402px;
+    margin-left: 139px;
+    font-family: cursive;
+    color: wheat;
+}
+
+p.isi2 {
+    position: absolute;
+    margin-top: 200px;
+    width: 547px;
+    margin-left: 135px;
+    color: whitesmoke;
+}
+
+p.isi3 {
+    position: absolute;
+    margin-top: 284px;
+    width: 577px;
+    margin-left: 136px;
+}
+
+p.isi4 {
+    position: inherit;
+    margin-top: 57px;
+    width: 353px;
+    margin-left: 230px;
+    color: whitesmoke;
+}
+
+p.isi5 {
+    position: absolute;
+    margin-left: 774px;
+    margin-top: 133px;
+}
+
+
+p.isi6 {
+    position: absolute;
+    width: 480px;
+    margin-left: 775px;
+    margin-top: 180px;
+    color: whitesmoke;
+}
+
+p.isi7 {
+    position: absolute;
+    width: 438px;
+    margin-left: 775px;
+    margin-top: 307px;
+}
+
+.BG {
+    background-color: black;
+    height: 300px;
+}
+
+h2.teks {
+    margin-top: 67px;
+    margin-left: 112px;
+    font-size: 25px;
+    color:white;
+    opacity: 10;
+}
+
+p.teks1 {
+    position: absolute;
+    margin-top: 111px;
+    width: 428px;
+    margin-left: 112px;
+    color: antiquewhite;
+    opacity: 4;
+}
+
+
+button.uk-button.uk-button-text {
+    position: absolute;
+    margin-top: 206px;
+    margin-left: 106px;
+    font-size: 26px;
+    color: whitesmoke;
+}
+
+button.uk-button.uk-button-text:hover{
+    color: rgba(54, 76, 202, 0.664);
+    
+}
+
+footer.foot {
+    background-color: rgba(51, 51, 58);
+    height: 28px;
+    margin-top: -20px;
+}
+
+h5.ini {
+    color: bisque;
+    font-family: Fruktur;
+    margin-left: 178px;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 5px;
+    opacity: 0.8;
+}
+
+li.sosmed {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 15px;
+}
+
+li.sosmed {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    width: 106px;
+    margin-left: 851px;
+    position: absolute;
+    margin-top: 3px;
+}
